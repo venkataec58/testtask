@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Prepayment Privilege Calculator Test "
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.393">
+  <properties />
+  
+  
+            <testcase name="errorValidationTest" time="0.507" classname="AutomationTesting.PrepaymentPrivilegeCalculator.PrepaymentPrivilegeCalculatorTest" />
+                <testcase name="dataValidationTest" time="1.886" classname="AutomationTesting.PrepaymentPrivilegeCalculator.PrepaymentPrivilegeCalculatorTest" />
+      
+</testsuite>

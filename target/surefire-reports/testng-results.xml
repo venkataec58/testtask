@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="AutomationTesting.Vivino.VivinoAssignmentTest" duration-ms="96061" started-at="2021-10-12T06:03:02Z" finished-at="2021-10-12T06:04:38Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="96061" started-at="2021-10-12T06:03:02Z" finished-at="2021-10-12T06:04:38Z">
+      <class name="AutomationTesting.Vivino.VivinoAssignmentTest">
+        <test-method status="PASS" signature="readPropertyFile()[pri:0, instance:AutomationTesting.Vivino.VivinoAssignmentTest@180bc464]" name="readPropertyFile" is-config="true" duration-ms="188" started-at="2021-10-12T06:03:01Z" finished-at="2021-10-12T06:03:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readPropertyFile -->
+        <test-method status="PASS" signature="setupDriver()[pri:0, instance:AutomationTesting.Vivino.VivinoAssignmentTest@180bc464]" name="setupDriver" is-config="true" duration-ms="50378" started-at="2021-10-12T06:03:02Z" finished-at="2021-10-12T06:03:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="dataVerificationTest()[pri:0, instance:AutomationTesting.Vivino.VivinoAssignmentTest@180bc464]" name="dataVerificationTest" duration-ms="43331" started-at="2021-10-12T06:03:52Z" finished-at="2021-10-12T06:04:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataVerificationTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:AutomationTesting.Vivino.VivinoAssignmentTest@180bc464]" name="closeBrowser" is-config="true" duration-ms="2326" started-at="2021-10-12T06:04:35Z" finished-at="2021-10-12T06:04:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:AutomationTesting.Vivino.VivinoAssignmentTest@180bc464]" name="tearDown" is-config="true" duration-ms="453" started-at="2021-10-12T06:04:38Z" finished-at="2021-10-12T06:04:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- AutomationTesting.Vivino.VivinoAssignmentTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- AutomationTesting.Vivino.VivinoAssignmentTest -->
+</testng-results>
